@@ -55,4 +55,4 @@ O arquivo final não é apenas uma lista, mas um objeto estruturado para IA:
 
 ---
 
-Este projeto é apenas para fins educacionais e de portfólio.
+Este projeto é uma ferramenta independente desenvolvida para fins educacionais e de estudo de análise de dados. Não possui qualquer vínculo, afiliação, patrocínio ou autorização da Shopee ou de suas entidades relacionadas. O nome "Shopee" é utilizado apenas para fins descritivos, indicando a compatibilidade da ferramenta com o site em questão. O desenvolvedor não se responsabiliza pelo uso indevido desta ferramenta.
