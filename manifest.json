@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Shopee Review Auditor - by Mateus",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Auditoria estatística e extração de reviews para IA.",
   "action": {
     "default_popup": "popup.html",
