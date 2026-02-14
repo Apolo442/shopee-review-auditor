@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # 🛡️ Shopee Review Auditor (Chrome Extension)
 
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
