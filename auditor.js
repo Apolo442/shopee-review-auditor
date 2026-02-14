@@ -208,7 +208,18 @@ DADOS PARA ANÁLISE (${capturedReviews.length} reviews):
       DATASET_REVIEWS: capturedReviews,
     };
 
-    const fileName = `Shopee_Audit_${new Date().getTime()}.json`;
+    // 1. Pega o título do produto (H1) ou o título da aba se o H1 falhar
+    let productTitle =
+      document.querySelector("h1")?.innerText || document.title;
+
+    // 2. Limpa caracteres proibidos em nomes de arquivos e espaços extras
+    let cleanTitle = productTitle
+      .replace(/[<>:"/\\|?*]/g, "")
+      .trim()
+      .substring(0, 100);
+
+    // 3. Define o nome final
+    const fileName = `${cleanTitle}.json`;
     const dataStr = JSON.stringify(finalObject, null, 2);
     const blob = new Blob([dataStr], { type: "application/json" });
     const url = URL.createObjectURL(blob);
