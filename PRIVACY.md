@@ -22,4 +22,4 @@ We do not use any third-party analytics or tracking tools (e.g., Google Analytic
 
 ## 4. Contact
 
-If you have questions, please contact the developer via GitHub issues at [Seu Link do Repositorio Aqui].
+If you have questions, please contact the developer via GitHub issues at https://github.com/Apolo442/shopee-review-auditor.
