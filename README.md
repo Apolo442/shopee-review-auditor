@@ -1,12 +1,12 @@
 ![Banner](banner.png)
 
-# 🛡️ Shopee Review Auditor (Chrome Extension)
+# 🤖 The Review Refinery
 
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![Tech](https://img.shields.io/badge/Stack-JavaScript%20%7C%20Manifest%20V3-orange)
 ![Focus](https://img.shields.io/badge/Focus-Reverse%20Engineering%20%26%20Data%20Mining-blue)
 
-> **Uma ferramenta de auditoria estatística para E-commerce que intercepta tráfego de rede para gerar relatórios técnicos livres de viés cognitivo.**
+> **Pare de ler opiniões vazias. Este auditor filtra o ruído e entrega os fatos: defeitos crônicos, durabilidade real e aprovação estatística do produto.**
 
 ## 🎯 O Problema
 
@@ -52,6 +52,7 @@ O arquivo final não é apenas uma lista, mas um objeto estruturado para IA:
   ]
 }
 ```
+
 ---
 
 Este projeto é apenas para fins educacionais e de portfólio.
