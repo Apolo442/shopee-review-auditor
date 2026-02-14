@@ -50,9 +50,6 @@ O arquivo final não é apenas uma lista, mas um objeto estruturado para IA:
   ]
 }
 ```
-
-## 👨‍💻 Autor
-
-Mateus Sampaio Engenharia de Software & Automação Portfólio | LinkedIn
+---
 
 Este projeto é apenas para fins educacionais e de portfólio.
