@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](./banner.png?v=2)
 
 # 🤖 The Review Refinery
 
